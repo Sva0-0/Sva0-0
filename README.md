@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNtN2poZTI2MXAya3hzenE1NWNkdmdudHd3cTNpbGl6bm9jNTNrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wipbc09IwpXjcUYp89/giphy.gif" alt="Animated Banner" width="100%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJneGdyam1xMGg5YzBvNzZqdHVrN3RoOHBmeHVicGh0ZzdsbmdmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tz30dcgKE3GCTYpxol/giphy.gif" alt="Animated Banner" width="50%" />
 </p>
 
 <h1 align="center">Hi, I'm Adhithiya Sv</h1>
