@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0AB3FF&center=true&width=435&lines=Adhithiya+Sv;Aspiring+Fullstack+Developer" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0AB3FF&center=true&width=435&lines=Adhithiya+Sv;Building+open+source+tools" alt="Typing Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Adhithiya Sv</h1>
-<p align="center">Aspiring fullstack developer focused on tools that fix real developer pain points.</p>
+<p align="center">I love shipping open-source projects and exploring how code can make workflows simpler and smarter.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sva0-0&style=flat&color=blue" alt="Visitors"/>
@@ -17,13 +17,13 @@
 ---
 
 ## Why I code
-> I like building tools that fix real developer pain points and learning by shipping.
+> I enjoy learning by building and turning small ideas into real, usable projects.
 
 ---
 
 ## Currently Building
-**Deadlink** – detects, snapshots & auto-fixes broken or drifted links in codebases  
-Focus: link health monitoring & auto-healing
+**Deadlink** – detects, snapshots & auto-heals broken or drifted links in codebases.  
+Focus: link monitoring, reliability & automation.
 
 [View on GitHub](https://github.com/Sva0-0/Deadlink)
 
@@ -32,7 +32,7 @@ Focus: link health monitoring & auto-healing
 ## Highlights
 - Building Deadlink MVP
 - Learning React, Node.js, Django
-- Open source tools for developers
+- Sharing open-source tools
 
 ---
 
