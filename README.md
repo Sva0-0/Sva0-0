@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0AB3FF&center=true&width=435&lines=Adhithiya+Sv;Building+open+source+tools" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0AB3FF&center=true&width=435&lines=SVA;Adhithiya+Sv" alt="Typing Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Adhithiya Sv</h1>
@@ -85,8 +85,8 @@ Focus: link monitoring, reliability & automation.
 ## Contact
 
 <div align="center">
-<a href="mailto:sva.adhithiya@gmail.com">Email</a> · 
-<a href="https://www.linkedin.com/in/adhithiya-sv-a365bb371/">LinkedIn</a> · 
-<a href="https://github.com/Sva0-0">GitHub</a> · 
-<a href="https://x.com/Sva_adhithiya">X (Twitter)</a>
+  <a href="https://mail.google.com/mail/?view=cm&to=sva.adhithiya@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> · 
+  <a href="https://www.linkedin.com/in/adhithiya-sv-a365bb371/" target="_blank" rel="noopener noreferrer">LinkedIn</a> · 
+  <a href="https://github.com/Sva0-0" target="_blank" rel="noopener noreferrer">GitHub</a> · 
+  <a href="https://x.com/Sva_adhithiya" target="_blank" rel="noopener noreferrer">X (Twitter)</a>
 </div>
