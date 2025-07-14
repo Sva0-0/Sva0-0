@@ -87,6 +87,5 @@ Focus: link monitoring, reliability & automation.
 <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=sva.adhithiya@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> · 
   <a href="https://www.linkedin.com/in/adhithiya-sv/" target="_blank" rel="noopener noreferrer">LinkedIn</a> · 
-  <a href="https://github.com/Sva0-0" target="_blank" rel="noopener noreferrer">GitHub</a> · 
   <a href="https://x.com/Sva_adhithiya" target="_blank" rel="noopener noreferrer">X (Twitter)</a>
 </div>
