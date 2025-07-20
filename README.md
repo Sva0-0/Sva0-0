@@ -59,9 +59,28 @@
 
 <h2 id="pinned-repositories" align="center">Pinned Repositories</h2>
 <p align="center">
-  <a href="https://github.com/Sva0-0/Deadlink"><b>Deadlink</b></a> &mdash; Automated link monitoring and healing for codebases.<br>
+  <a href="https://github.com/Sva0-0/Deadlink"><b>Deadlink</b></a> &mdash; Detect, snapshot, and protect your codebase from dead or silently changed links. Full-stack GitHub-integrated tool that scans your project, archives references, tracks content drift over time, and automates link healing.<br>
   <a href="https://github.com/Sva0-0/AnotherProject"><b>AnotherProject</b></a> &mdash; Short description of another key project.<br>
   <a href="https://github.com/Sva0-0/ThirdProject"><b>ThirdProject</b></a> &mdash; Short description of a third project.
+</p>
+
+---
+
+<h2 id="notable-repositories" align="center">Other Notable Repositories</h2>
+<p align="center">
+  <a href="https://github.com/Sva0-0/Periodic-Table"><b>Periodic-Table</b></a> &mdash; A modern, interactive Periodic Table desktop app built with Python and Tkinter.<br>
+  <a href="https://github.com/Sva0-0/Flappy"><b>Flappy</b></a> &mdash; A simple Flappy Bird clone written in Python using Pygame.<br>
+  <a href="https://github.com/Sva0-0/Cosmic-dApp"><b>Cosmic-dApp</b></a> &mdash; Retro pixel-themed dApp for buying and trading COSMIC tokens on the Andromeda blockchain.<br>
+  <a href="https://github.com/Sva0-0/Metaworld-os"><b>Metaworld-os</b></a> &mdash; Modular universe platform experiment on the Andromeda Protocol.
+</p>
+
+---
+
+<h2 id="achievements" align="center">Achievements & Community</h2>
+<p align="center">
+  <b>Open Source Advocate</b> &mdash; Actively building and sharing tools for the developer community.<br>
+  <b>Learning & Exploring</b> &mdash; Always experimenting with new tech, frameworks, and automation.<br>
+  <b>Community Engagement</b> &mdash; Open to collaboration, feedback, and new ideas.
 </p>
 
 ---
