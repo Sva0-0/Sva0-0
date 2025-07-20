@@ -60,8 +60,8 @@
 <h2 id="pinned-repositories" align="center">Pinned Repositories</h2>
 <p align="center">
   <a href="https://github.com/Sva0-0/Deadlink"><b>Deadlink</b></a> &mdash; Detect, snapshot, and protect your codebase from dead or silently changed links. Full-stack GitHub-integrated tool that scans your project, archives references, tracks content drift over time, and automates link healing.<br>
-  <a href="https://github.com/Sva0-0/AnotherProject"><b>AnotherProject</b></a> &mdash; Short description of another key project.<br>
-  <a href="https://github.com/Sva0-0/ThirdProject"><b>ThirdProject</b></a> &mdash; Short description of a third project.
+  <a href="https://github.com/Sva0-0/Cosmic-dApp"><b>Cosmic-dApp</b></a> &mdash; Retro pixel-themed dApp for buying and trading COSMIC tokens on the Andromeda blockchain.<br>
+  <a href="https://github.com/Sva0-0/Metaworld-os"><b>Metaworld-os</b></a> &mdash; Modular universe platform experiment on the Andromeda Protocol.
 </p>
 
 ---
