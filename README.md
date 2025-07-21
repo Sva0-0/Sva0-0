@@ -91,8 +91,6 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sva0-0&layout=compact&theme=tokyonight" alt="Top languages used by Sva0-0" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=Sva0-0&theme=tokyonight" alt="GitHub streak stats for Sva0-0" />
-  <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sva0-0&theme=tokyonight" alt="GitHub activity graph for Sva0-0" />
 </p>
 
