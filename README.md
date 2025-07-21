@@ -115,5 +115,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sva0-0/Sva0-0/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation for Sva0-0" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sva0-0&theme=tokyonight&no-frame=true" alt="GitHub Trophies for Sva0-0" />
 </p>
