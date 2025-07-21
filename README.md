@@ -107,8 +107,6 @@
   <a href="https://www.linkedin.com/in/adhithiya-sv/">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://x.com/Sva_adhithiya">X (Twitter)</a>
 </p>
----
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sva0-0&theme=tokyonight&no-frame=true" alt="GitHub Trophies for Sva0-0" />
 </p>
